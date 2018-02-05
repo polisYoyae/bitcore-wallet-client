@@ -1,0 +1,26 @@
+{
+  "name": "bitcore-wallet-client-polis",
+  "main": "index.js",
+  "version": "2.1.1",
+  "homepage": "https://github.com/polispay/bitcore-wallet-client-polis",
+  "authors": ["BitPay Inc"],
+  "description": "Client for bitcore-wallet-service-polis",
+  "keywords": [
+    "polis",
+    "copay-polis",
+    "multisig",
+    "wallet",
+    "client",
+    "bitcore-polis"
+  ],
+  "ignore": [
+    "**/.*",
+    "lib",
+    "node_modules",
+    "Gruntfile.js",
+    "Makefile",
+    "index.js",
+    "test",
+    "Makefile"
+  ]
+}
